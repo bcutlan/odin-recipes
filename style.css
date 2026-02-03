@@ -4,8 +4,7 @@ body{
 h1, h3, h4{color: white;
 }
 p{
-gray;
-color: white;
+    color: white;
 }
 a{
 color: rgb(23, 48, 208);
