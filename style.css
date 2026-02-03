@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(57, 179, 27);
+}
+h1, h3, h4{color: white;
+}
+p{
+gray;
+color: white;
+}
+a{
+color: rgb(23, 48, 208);
+}
+li{
+color: red;
+}
